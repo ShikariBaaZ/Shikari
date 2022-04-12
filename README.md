@@ -2,14 +2,10 @@
 <img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/welcome.gif"</div>
 <img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/cooltext403237630597766.gif"
 
-<div align="center">
-<img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/about.gif"</div>
-
 <h2>Hey there <img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/Hi.gif" width="30px"></h2>
-          
-            🦅 I AM SHIKARI 🦅
+        
 
-<h1 align="center">Hi 👋, I'm Shikari</h1>
+<h1 align="center">Hi Buddy 👋, I'm Shikari</h1>
 
 - 🔭 I’m currently working on [Telegram Bots](https://t.me/Lawless_Updates)
 
