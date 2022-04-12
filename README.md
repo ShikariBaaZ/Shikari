@@ -2,9 +2,9 @@
 <img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/welcome.gif"</div>
 <img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/cooltext403237630597766.gif"
 
+<div align="center">
 <h2>Hey there <img src="https://github.com/ShikariBaaZ/Shikari/blob/main/gifs/Hi.gif" width="30px"></h2>
         
-<div align="center">
 <h1 align="center">Hi Buddy 👋, I'm Shikari</h1>
 
 - 🔭 I’m currently working on [Telegram Bots](https://t.me/Lawless_Updates)
